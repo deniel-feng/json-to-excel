@@ -1,5 +1,5 @@
 {
-  "name": "fs-json-to-excel",
+  "name": "json-to-excel-fs",
   "version": "1.0.6",
   "description": "把json数据导出为excel表格",
   "main": "index.js",
