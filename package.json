@@ -14,6 +14,6 @@
   "author": "冯赛",
   "license": "ISC",
   "dependencies": {
-    "xlsx": "^0.13.4"
+    "xlsx": "^0.17.0"
   }
 }
